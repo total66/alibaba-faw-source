@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMSmaliIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="CheckstyleConfigurable">
+    <option name="suppFilterFilename" value="" />
+    <option name="suppCommentFilter" value="false" />
+    <option name="offComment" value="CHECKSTYLE\:OFF" />
+    <option name="onComment" value="CHECKSTYLE\:ON" />
+    <option name="checkFormat" value=".*" />
+    <option name="messageFormat" value="" />
+    <option name="checkCPP" value="true" />
+    <option name="checkC" value="true" />
+    <option name="suppNearbyCommentFilter" value="false" />
+    <option name="snCommentFormat" value="SUPPRESS CHECKSTYLE (\w+)" />
+    <option name="snCheckFormat" value="$1" />
+    <option name="snMessageFormat" value="" />
+    <option name="snInfluenceFormat" value="0" />
+    <option name="snCheckCPP" value="true" />
+    <option name="snCheckC" value="true" />
+    <option name="pathToUserRulesConfiguration" value="" />
+    <option name="pathToJarWithRules" value="" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-3/pom.xml" />
+        <option value="$PROJECT_DIR$/user-test-all/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-artemis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-cloud-connectors/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-cassandra-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-cassandra/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-couchbase-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-couchbase/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-ldap/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-mongodb-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-redis-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-data-solr/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-groovy-templates/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-hateoas/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jersey/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jooq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-json/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jta-atomikos/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-jta-bitronix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-mustache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-oauth2-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-oauth2-resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-rsocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-undertow/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-web-services/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/org.springframework.boot.gradle.plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-antlib/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-autoconfigure-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-configuration-docs/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-configuration-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-gradle-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-loader-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-loader/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-maven-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-test-support/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/spring-boot-devtools-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/spring-boot-server-tests/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

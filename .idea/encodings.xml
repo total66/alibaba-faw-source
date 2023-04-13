@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/mybatis-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-actuator-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-actuator-autoconfigure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-autoconfigure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-cli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-cli/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-cli/target/generated-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-devtools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-devtools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-docs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-docs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-properties-migrator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-properties-migrator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-starters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-test-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-test-autoconfigure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-integration-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-smoke-tests-invoker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/spring-boot-smoke-tests-invoker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/target/generated-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-test-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-test-all/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
