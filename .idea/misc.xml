@@ -36,6 +36,7 @@
         <option value="$PROJECT_DIR$/mybatis-3/pom.xml" />
         <option value="$PROJECT_DIR$/user-test-all/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

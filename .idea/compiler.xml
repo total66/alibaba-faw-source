@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-autoconfigure" />
+        <module name="demo-spring-boot-starter" />
+        <module name="spring-boot-properties-migrator" />
         <module name="user-test-all" />
         <module name="spring-boot-actuator" />
-        <module name="spring-boot-autoconfigure" />
         <module name="spring-boot-cli" />
         <module name="spring-boot-devtools" />
         <module name="mybatis-3" />
@@ -16,7 +18,6 @@
         <module name="spring-boot-actuator-autoconfigure" />
         <module name="spring-boot" />
         <module name="spring-boot-docs" />
-        <module name="spring-boot-properties-migrator" />
         <module name="spring-boot-test" />
       </profile>
     </annotationProcessing>
