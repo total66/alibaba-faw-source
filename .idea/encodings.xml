@@ -3,6 +3,14 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/car-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/car-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test/user-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/spring-boot-project/spring-boot-actuator-autoconfigure/src/main/java" charset="UTF-8" />
@@ -41,6 +49,7 @@
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/target/generated-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit-test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-test-all/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-test-all/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

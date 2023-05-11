@@ -8,20 +8,25 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-autoconfigure" />
         <module name="demo-spring-boot-starter" />
+        <module name="unit-test" />
+        <module name="car-service" />
+        <module name="user-service" />
         <module name="spring-boot-properties-migrator" />
         <module name="user-test-all" />
         <module name="spring-boot-actuator" />
+        <module name="user-api" />
         <module name="spring-boot-cli" />
         <module name="spring-boot-devtools" />
         <module name="mybatis-3" />
         <module name="spring-boot-test-autoconfigure" />
-        <module name="spring-boot-actuator-autoconfigure" />
         <module name="spring-boot" />
+        <module name="spring-boot-actuator-autoconfigure" />
         <module name="spring-boot-docs" />
         <module name="spring-boot-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dubbo-test" target="1.8" />
       <module name="org.springframework.boot.gradle.plugin" target="1.5" />
       <module name="spring-boot (1)" target="1.5" />
       <module name="spring-boot (2)" target="1.8" />
@@ -118,10 +123,12 @@
       <module name="spring-boot-test-support" target="1.5" />
       <module name="spring-boot-tools (1)" target="1.5" />
       <module name="spring-boot-tools (2)" target="1.8" />
+      <module name="user-api (1)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="car-service" options="-parameters" />
       <module name="spring-boot" options="-parameters" />
       <module name="spring-boot (2)" options="-parameters" />
       <module name="spring-boot-actuator" options="-parameters" />
@@ -136,6 +143,7 @@
       <module name="spring-boot-devtools (2)" options="-parameters" />
       <module name="spring-boot-docs" options="-parameters" />
       <module name="spring-boot-docs (2)" options="-parameters" />
+      <module name="spring-boot-integration-tests" options="" />
       <module name="spring-boot-properties-migrator" options="-parameters" />
       <module name="spring-boot-properties-migrator (2)" options="-parameters" />
       <module name="spring-boot-test" options="-parameters" />
@@ -143,6 +151,8 @@
       <module name="spring-boot-test-autoconfigure" options="-parameters" />
       <module name="spring-boot-test-autoconfigure (2)" options="-parameters" />
       <module name="spring-boot-tests" options="" />
+      <module name="unit-test" options="-parameters" />
+      <module name="user-service" options="-parameters" />
       <module name="user-test-all" options="-parameters" />
     </option>
   </component>

@@ -19,17 +19,12 @@ public class ThreadPoolConfig {
     @Bean("exportServiceExecutor")
     public Executor exportServiceExecutor(){
         ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
-
         int processors = Runtime.getRuntime().availableProcessors();
-
         executor.setCorePoolSize(processors);
         executor.setMaxPoolSize(2*processors);
-
         executor.setQueueCapacity(Integer.MAX_VALUE);
         executor.setThreadNamePrefix("export-service-");
-
         return executor;
-
     }
 
 }
