@@ -1,7 +1,7 @@
 package com.ebanma.cloud.usertestall.domain.dto;  
   
 import java.io.Serializable;  
-  
+
 public class UserQueryDTO implements Serializable {  
   
     /**  
@@ -12,5 +12,13 @@ public class UserQueryDTO implements Serializable {
     /**  
      * 用户名  
      */  
-    private String username;  
+    private String username;
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
 }
