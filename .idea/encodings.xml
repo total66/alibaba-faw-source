@@ -49,6 +49,8 @@
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/target/generated-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit-test-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit-test-all/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/unit-test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-test-all/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-test-all/src/main/resources" charset="UTF-8" />

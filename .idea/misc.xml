@@ -37,11 +37,11 @@
         <option value="$PROJECT_DIR$/user-test-all/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-2.2.9.RELEASE/pom.xml" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" />
-        <option value="$PROJECT_DIR$/unit-test/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-test/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-test/user-api/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-test/car-service/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-test/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/unit-test-all/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

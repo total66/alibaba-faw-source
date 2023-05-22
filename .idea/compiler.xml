@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-autoconfigure" />
         <module name="demo-spring-boot-starter" />
-        <module name="unit-test" />
+        <module name="unit-test-all" />
         <module name="car-service" />
         <module name="user-service" />
         <module name="spring-boot-properties-migrator" />
@@ -123,6 +123,7 @@
       <module name="spring-boot-test-support" target="1.5" />
       <module name="spring-boot-tools (1)" target="1.5" />
       <module name="spring-boot-tools (2)" target="1.8" />
+      <module name="unit-test" target="1.8" />
       <module name="user-api (1)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -152,6 +153,7 @@
       <module name="spring-boot-test-autoconfigure (2)" options="-parameters" />
       <module name="spring-boot-tests" options="" />
       <module name="unit-test" options="-parameters" />
+      <module name="unit-test-all" options="-parameters" />
       <module name="user-service" options="-parameters" />
       <module name="user-test-all" options="-parameters" />
     </option>

@@ -34,6 +34,11 @@ import java.util.stream.Stream;
 @Validated
 public class UserController {
 
+    public UserController(UserService userService, ExcelService excelService) {
+        this.userService = userService;
+        this.excelService = excelService;
+    }
+
     private static final Logger logger = LoggerFactory.getLogger(UserController.class);
 
     @Autowired
